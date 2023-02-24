@@ -1,0 +1,81 @@
+body
+{
+    background-color: #E0C9A9;
+}
+
+h1
+{
+    color: #5E2610;
+
+    padding: 3px;
+}
+
+address
+{
+    padding: 15px;
+
+    font-size: 17px;
+}
+
+.anadiv
+{
+    margin-left: 30%;
+}
+
+.renk
+{
+    color: #963102;
+}
+
+.fark ul li p a 
+{
+    text-decoration: none;
+}
+
+.fark ul
+{
+    overflow: hidden;
+
+    margin: 0;
+
+    list-style-type: none;
+
+    display: block;
+
+}
+
+.fark ul li
+{
+    float: left;
+
+    padding-left: 25px;
+
+    display: block;
+}
+
+li
+{
+    line-height: 0.8cm;
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-size: 16px;
+}
+
+h2
+{
+    color: aliceblue;
+    background-color: #963102;
+    padding: 10px;
+    display: inline;
+    border-radius: 30px;
+}
+
+.right
+{
+    display: block;
+
+    float: right;
+
+    padding-right: 30px;
+}
